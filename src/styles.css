@@ -4,7 +4,14 @@
 
 body{
     margin: 0;
-    background: linear-gradient(to right, rgb(240, 216, 7), rgb(53, 226, 0));
+    background: linear-gradient(to right, #FF416C,  #FF4B2B);
+}
+
+.title{
+    color: rgb(68, 67, 67);
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
 }
 
 .calculator-grid{
