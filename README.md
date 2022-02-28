@@ -2,12 +2,12 @@ Live Demo: [react-calculator](https://react-pocket-calculator.netlify.app/)
 <br/>
 A simple calculator application built using ReactJS to understand the fundamentals of reacts
 <br/>
--Supports Decimal point values
--Supports Indian Numbering System
+- Supports Decimal point values
+- Supports Indian Numbering System
 
 >Main Screen
 >
-![mainS (2)](https://user-images.githubusercontent.com/48212565/156003235-b0a97dfa-772a-4552-8e48-8cb3cdcc4f76.jpg)
+![Mainss (1)](https://user-images.githubusercontent.com/48212565/156003570-ad5e3591-e64a-411c-bd40-5e48359b25d4.png)
 
 
 <br/>
